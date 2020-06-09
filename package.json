@@ -15,7 +15,7 @@
 		"prettier": "2.0.4",
 		"semantic-release": "17.0.8",
 		"type-fest": "0.15.1",
-		"typescript": "3.9.3",
+		"typescript": "3.9.5",
 		"xo": "0.32.0"
 	},
 	"engines": {
